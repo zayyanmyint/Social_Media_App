@@ -15,7 +15,7 @@ with st.sidebar:
     st.image("parami.jpg") 
     st.text("Student Name: Zay Yan Myint")
     st.text("Student ID: PUIS20240081")
-    st.text("Class Name: Into to Machine Learning")
+    st.text("Class Name: Introduction to Machine Learning")
     st.write("Class of 2028")
 
 col1,col2=st.columns(2)
